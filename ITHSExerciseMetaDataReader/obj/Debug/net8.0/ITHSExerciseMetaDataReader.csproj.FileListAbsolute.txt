@@ -1,0 +1,14 @@
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\bin\Debug\net8.0\ITHSExerciseMetaDataReader.exe
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\bin\Debug\net8.0\ITHSExerciseMetaDataReader.deps.json
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\bin\Debug\net8.0\ITHSExerciseMetaDataReader.runtimeconfig.json
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\bin\Debug\net8.0\ITHSExerciseMetaDataReader.dll
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\bin\Debug\net8.0\ITHSExerciseMetaDataReader.pdb
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\obj\Debug\net8.0\ITHSExerciseMetaDataReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\obj\Debug\net8.0\ITHSExerciseMetaDataReader.AssemblyInfoInputs.cache
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\obj\Debug\net8.0\ITHSExerciseMetaDataReader.AssemblyInfo.cs
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\obj\Debug\net8.0\ITHSExerciseMetaDataReader.csproj.CoreCompileInputs.cache
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\obj\Debug\net8.0\ITHSExerciseMetaDataReader.dll
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\obj\Debug\net8.0\refint\ITHSExerciseMetaDataReader.dll
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\obj\Debug\net8.0\ITHSExerciseMetaDataReader.pdb
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\obj\Debug\net8.0\ITHSExerciseMetaDataReader.genruntimeconfig.cache
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\obj\Debug\net8.0\ref\ITHSExerciseMetaDataReader.dll

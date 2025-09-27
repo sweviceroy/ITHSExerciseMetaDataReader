@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ITHS\\Courses\\CSharp\\Exercises\\MetaDataReader\\ITHSExerciseMetaDataReader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{406DCDC9-AE7F-45C9-BED0-5794EC121C95}|ITHSExerciseMetaDataReader\\ITHSExerciseMetaDataReader.csproj|c:\\iths\\courses\\csharp\\exercises\\metadatareader\\ithsexercisemetadatareader\\ithsexercisemetadatareader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406DCDC9-AE7F-45C9-BED0-5794EC121C95}|ITHSExerciseMetaDataReader\\ITHSExerciseMetaDataReader.csproj|solutionrelative:ithsexercisemetadatareader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ITHS\\Courses\\CSharp\\Exercises\\MetaDataReader\\ITHSExerciseMetaDataReader\\ITHSExerciseMetaDataReader\\Program.cs",
+              "RelativeDocumentMoniker": "ITHSExerciseMetaDataReader\\Program.cs",
+              "ToolTip": "C:\\ITHS\\Courses\\CSharp\\Exercises\\MetaDataReader\\ITHSExerciseMetaDataReader\\ITHSExerciseMetaDataReader\\Program.cs",
+              "RelativeToolTip": "ITHSExerciseMetaDataReader\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T16:03:56.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
