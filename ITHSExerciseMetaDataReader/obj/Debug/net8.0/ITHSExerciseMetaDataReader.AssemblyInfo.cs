@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITHSExerciseMetaDataReader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+255f7a66afd7781e5ffabd79a814fd736a37b7ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITHSExerciseMetaDataReader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITHSExerciseMetaDataReader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

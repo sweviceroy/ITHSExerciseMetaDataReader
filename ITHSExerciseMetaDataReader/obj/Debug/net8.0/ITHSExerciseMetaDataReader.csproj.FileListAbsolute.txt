@@ -12,3 +12,4 @@ C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSE
 C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\obj\Debug\net8.0\ITHSExerciseMetaDataReader.pdb
 C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\obj\Debug\net8.0\ITHSExerciseMetaDataReader.genruntimeconfig.cache
 C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\obj\Debug\net8.0\ref\ITHSExerciseMetaDataReader.dll
+C:\ITHS\Courses\CSharp\Exercises\MetaDataReader\ITHSExerciseMetaDataReader\ITHSExerciseMetaDataReader\obj\Debug\net8.0\ITHSExerciseMetaDataReader.sourcelink.json
